@@ -44,7 +44,7 @@ while i <= chance:
     print("Game No:[{i}]")
     print("========================================================")
     i += 1
-print("##### Game Over #####")
+Print ("****")
 print("*******************************************")
 if userScore < computerScore:
     print(
